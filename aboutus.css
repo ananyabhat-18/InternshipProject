@@ -1,0 +1,60 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px;
+  }
+  
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+  }
+
+.abouttext{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background: #9f8ac7;
+    color: floralwhite;
+    font-family: 'Brush Script MT', cursive;
+    
+  }
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+    background-image: url("../img/LS.jpeg");
+  
+  }
+  .footer {
+    background-color: #7c6ca1;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px 0px;
+  }
+  .textcolor{
+    color: white;
+  }
+  .nav-color{
+    background: #9f8ac7;
+  }
+  ul.navbar-nav li a{
+    color: white;
+  }
+  .btn-contact{
+    background-color: #623ac0;
+    color: white;
+    border-radius: 50px;
+  }
+  .cardmargin{
+    align-items: center;
+  }
+  address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+  }
+  
